@@ -16,4 +16,4 @@ A Pong game for two players made with raylib 4.5 and C++ for study purposes.
 - [Raylib C++ Starter Template](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE)
 
 ## How to run the game
-In order to play this game, you need to install [raylib](https://www.raylib.com/), clone this repository and execute ```main.exe```. It's been tested only on Windows with raylib installed via Windows installer.
+In order to play this game, you need to install [raylib](https://www.raylib.com/), clone this repository and execute ```main.exe```. To exit the game, press ESC anytime. It's been tested only on Windows with raylib installed via Windows installer.
